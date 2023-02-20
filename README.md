@@ -7,4 +7,4 @@ Prodi : D-IV Sistem Informasi Bisnis
 
 # Hasil Praktikum
 
-![ss](Hasil.jpeg)
+![ss](Hasil.png)
